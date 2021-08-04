@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
+## NPM Install
+
+Run `npm install` command to install the dependancies of node modules.
 ## API Server
 
 Run `json-server --watch db.json` command for start mock API server. This Server runs on `http://localhost:3000/`. We are using Mock API server currently to this project. Later once we get actual API Endpoint we can use that endpoint also.
