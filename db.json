@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Nilesh",
+      "lastName": "Khakal",
+      "email": "nileshkhakal@gmail.com",
+      "phoneNumber": "8055591369",
+      "status": "Active"
+    }
+  ]
+}
